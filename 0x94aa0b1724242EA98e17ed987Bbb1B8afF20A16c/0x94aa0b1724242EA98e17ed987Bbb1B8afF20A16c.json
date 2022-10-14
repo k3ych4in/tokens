@@ -1,0 +1,13 @@
+{
+ "name": "KeyChain",
+ "website": "https://keychain.finance/",
+ "description": "KeyChain (KYC) is a decentralized protocol DApps, which allows cross-chain exchange between various blockchains especially on the ERC-20 network. KeyChain (KYC) works similarly to UniSwap, and has a number of wallet, staking, transaction, trading and exchange features between blockchains, except that it allows users to switch between major blockchains without needing to wrap around tokens, special wallets, or special software. It is universal and decentralized, and can be combined with any chain and any type of transaction.
+
+KeyChain (KYC) maintains scope (KYC) Chain, a Proof-of-Authority consensus mechanism on Ethereum (ERC-20) that enables faster transactions and scalability solutions, to handle assets across multiple networks. KeyChain's multi-chain nature (KYC) means it can support all common decentralized transaction networks as long as it bypasses basic security guarantees. KeyChain (KYC) explorer (KYC) Chain keeps track of all balances, swaps and events, so users will only pay transaction fees for the blockchains they interact with.",
+ "explorer": "https://etherscan.io/address/0x94aa0b1724242EA98e17ed987Bbb1B8afF20A16c",
+ "type": "ERC20",
+ "symbol": "KYC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x94aa0b1724242EA98e17ed987Bbb1B8afF20A16c"
+}
